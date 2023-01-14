@@ -1,0 +1,36 @@
+plugins {
+	id 'scala'
+	id 'application'
+	id 'org.openjfx.javafxplugin' version '0.0.13'
+}
+
+application {
+	mainClassName = 'Main'
+}
+
+repositories {
+	mavenCentral()
+}
+
+dependencies {
+	implementation 'org.scala-lang:scala3-library_3:3.0.+'
+	implementation 'org.scala-lang.modules:scala-jline:+'
+}
+
+javafx {
+	version = '18'
+	modules = ['javafx.controls']
+}
+
+compileScala {
+	options.encoding = 'UTF-8'
+}
+
+jar {
+	duplicatesStrategy = 'exclude'
+	manifest.attributes 'Main-Class': mainClassName
+}
+
+jar.from configurations.compileClasspath.collect {
+	it.isDirectory()? it: zipTree(it)
+}

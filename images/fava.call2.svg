@@ -1,0 +1,178 @@
+<svg viewBox="0.0 0.0 720.0 196.0" xmlns="http://www.w3.org/2000/svg">
+  <g>
+    <g>
+      <text fill="#000000" dominant-baseline="bottom" text-anchor="middle" font-size="10" font-weight="bold" font-family="Cambria Math" x="50" y="66">top</text>
+      <g>
+        <rect stroke-width="3" stroke="#000000" fill="#000099" x="15" y="72" width="70" height="20"/>
+        <text fill="#ffffff" dominant-baseline="bottom" text-anchor="middle" font-size="16" font-weight="bold" font-family="Cambria Math" x="50" y="87">Closure</text>
+      </g>
+    </g>
+    <g>
+      <text fill="#000000" dominant-baseline="bottom" text-anchor="middle" font-size="10" font-weight="bold" font-family="Cambria Math" x="50" y="194">top</text>
+    </g>
+    <text fill="#000000" dominant-baseline="bottom" text-anchor="middle" font-size="16" font-weight="bold" font-family="Cambria Math" x="50" y="111">def(4)</text>
+    <line stroke-width="3" stroke="#000000" x1="50" y1="121" x2="50" y2="127"/>
+    <text fill="#000000" dominant-baseline="top" text-anchor="middle" font-size="10" font-weight="bold" font-family="Cambria Math" x="50" y="136">1</text>
+  </g>
+  <g>
+    <g>
+      <text fill="#000000" dominant-baseline="bottom" text-anchor="middle" font-size="10" font-weight="bold" font-family="Cambria Math" x="135" y="42">top</text>
+      <g>
+        <rect stroke-width="3" stroke="#000000" fill="#000099" x="100" y="72" width="70" height="20"/>
+        <text fill="#ffffff" dominant-baseline="bottom" text-anchor="middle" font-size="16" font-weight="bold" font-family="Cambria Math" x="135" y="87">Closure</text>
+      </g>
+      <g>
+        <rect stroke-width="3" stroke="#000000" fill="#000099" x="100" y="48" width="70" height="20"/>
+        <text fill="#ffffff" dominant-baseline="bottom" text-anchor="middle" font-size="16" font-weight="bold" font-family="Cambria Math" x="135" y="63">Closure</text>
+      </g>
+    </g>
+    <g>
+      <text fill="#000000" dominant-baseline="bottom" text-anchor="middle" font-size="10" font-weight="bold" font-family="Cambria Math" x="135" y="194">top</text>
+    </g>
+    <text fill="#000000" dominant-baseline="bottom" text-anchor="middle" font-size="16" font-weight="bold" font-family="Cambria Math" x="135" y="111">def(3)</text>
+    <line stroke-width="3" stroke="#000000" x1="135" y1="121" x2="135" y2="127"/>
+    <text fill="#000000" dominant-baseline="top" text-anchor="middle" font-size="10" font-weight="bold" font-family="Cambria Math" x="135" y="136">2</text>
+  </g>
+  <g>
+    <g>
+      <text fill="#000000" dominant-baseline="bottom" text-anchor="middle" font-size="10" font-weight="bold" font-family="Cambria Math" x="220" y="66">top</text>
+      <g>
+        <rect stroke-width="3" stroke="#000000" fill="#000099" x="185" y="72" width="70" height="20"/>
+        <text fill="#ffffff" dominant-baseline="bottom" text-anchor="middle" font-size="16" font-weight="bold" font-family="Cambria Math" x="220" y="87">Ret #08</text>
+      </g>
+    </g>
+    <g>
+      <text fill="#000000" dominant-baseline="bottom" text-anchor="middle" font-size="10" font-weight="bold" font-family="Cambria Math" x="220" y="170">top</text>
+      <g>
+        <rect stroke-width="3" stroke="#000000" fill="#000099" x="185" y="176" width="70" height="20"/>
+        <text fill="#ffffff" dominant-baseline="bottom" text-anchor="middle" font-size="16" font-weight="bold" font-family="Cambria Math" x="220" y="191">Env #01</text>
+      </g>
+    </g>
+    <text fill="#000000" dominant-baseline="bottom" text-anchor="middle" font-size="16" font-weight="bold" font-family="Cambria Math" x="220" y="111">call(1)</text>
+    <line stroke-width="3" stroke="#000000" x1="220" y1="121" x2="220" y2="127"/>
+    <text fill="#000000" dominant-baseline="top" text-anchor="middle" font-size="10" font-weight="bold" font-family="Cambria Math" x="220" y="136">3</text>
+  </g>
+  <g>
+    <g>
+      <text fill="#000000" dominant-baseline="bottom" text-anchor="middle" font-size="10" font-weight="bold" font-family="Cambria Math" x="305" y="42">top</text>
+      <g>
+        <rect stroke-width="3" stroke="#000000" fill="#000099" x="270" y="72" width="70" height="20"/>
+        <text fill="#ffffff" dominant-baseline="bottom" text-anchor="middle" font-size="16" font-weight="bold" font-family="Cambria Math" x="305" y="87">Ret #08</text>
+      </g>
+      <g>
+        <rect stroke-width="3" stroke="#000000" fill="#000099" x="270" y="48" width="70" height="20"/>
+        <text fill="#ffffff" dominant-baseline="bottom" text-anchor="middle" font-size="16" font-weight="bold" font-family="Cambria Math" x="305" y="63">Closure</text>
+      </g>
+    </g>
+    <g>
+      <text fill="#000000" dominant-baseline="bottom" text-anchor="middle" font-size="10" font-weight="bold" font-family="Cambria Math" x="305" y="170">top</text>
+      <g>
+        <rect stroke-width="3" stroke="#000000" fill="#000099" x="270" y="176" width="70" height="20"/>
+        <text fill="#ffffff" dominant-baseline="bottom" text-anchor="middle" font-size="16" font-weight="bold" font-family="Cambria Math" x="305" y="191">Env #01</text>
+      </g>
+    </g>
+    <text fill="#000000" dominant-baseline="bottom" text-anchor="middle" font-size="16" font-weight="bold" font-family="Cambria Math" x="305" y="111">load(0,0)</text>
+    <line stroke-width="3" stroke="#000000" x1="305" y1="121" x2="305" y2="127"/>
+    <text fill="#000000" dominant-baseline="top" text-anchor="middle" font-size="10" font-weight="bold" font-family="Cambria Math" x="305" y="136">4</text>
+  </g>
+  <g>
+    <g>
+      <text fill="#000000" dominant-baseline="bottom" text-anchor="middle" font-size="10" font-weight="bold" font-family="Cambria Math" x="390" y="42">top</text>
+      <g>
+        <rect stroke-width="3" stroke="#000000" fill="#000099" x="355" y="72" width="70" height="20"/>
+        <text fill="#ffffff" dominant-baseline="bottom" text-anchor="middle" font-size="16" font-weight="bold" font-family="Cambria Math" x="390" y="87">Ret #08</text>
+      </g>
+      <g>
+        <rect stroke-width="3" stroke="#000000" fill="#000099" x="355" y="48" width="70" height="20"/>
+        <text fill="#ffffff" dominant-baseline="bottom" text-anchor="middle" font-size="16" font-weight="bold" font-family="Cambria Math" x="390" y="63">Ret #03</text>
+      </g>
+    </g>
+    <g>
+      <text fill="#000000" dominant-baseline="bottom" text-anchor="middle" font-size="10" font-weight="bold" font-family="Cambria Math" x="390" y="146">top</text>
+      <g>
+        <rect stroke-width="3" stroke="#000000" fill="#000099" x="355" y="176" width="70" height="20"/>
+        <text fill="#ffffff" dominant-baseline="bottom" text-anchor="middle" font-size="16" font-weight="bold" font-family="Cambria Math" x="390" y="191">Env #01</text>
+      </g>
+      <g>
+        <rect stroke-width="3" stroke="#000000" fill="#000099" x="355" y="152" width="70" height="20"/>
+        <text fill="#ffffff" dominant-baseline="bottom" text-anchor="middle" font-size="16" font-weight="bold" font-family="Cambria Math" x="390" y="167">Env #02</text>
+      </g>
+    </g>
+    <text fill="#000000" dominant-baseline="bottom" text-anchor="middle" font-size="16" font-weight="bold" font-family="Cambria Math" x="390" y="111">call(0)</text>
+    <line stroke-width="3" stroke="#000000" x1="390" y1="121" x2="390" y2="127"/>
+    <text fill="#000000" dominant-baseline="top" text-anchor="middle" font-size="10" font-weight="bold" font-family="Cambria Math" x="390" y="136">5</text>
+  </g>
+  <g>
+    <g>
+      <text fill="#000000" dominant-baseline="bottom" text-anchor="middle" font-size="10" font-weight="bold" font-family="Cambria Math" x="475" y="18">top</text>
+      <g>
+        <rect stroke-width="3" stroke="#000000" fill="#000099" x="440" y="72" width="70" height="20"/>
+        <text fill="#ffffff" dominant-baseline="bottom" text-anchor="middle" font-size="16" font-weight="bold" font-family="Cambria Math" x="475" y="87">Ret #08</text>
+      </g>
+      <g>
+        <rect stroke-width="3" stroke="#000000" fill="#000099" x="440" y="48" width="70" height="20"/>
+        <text fill="#ffffff" dominant-baseline="bottom" text-anchor="middle" font-size="16" font-weight="bold" font-family="Cambria Math" x="475" y="63">Ret #03</text>
+      </g>
+      <g>
+        <rect stroke-width="3" stroke="#000000" fill="#000099" x="440" y="24" width="70" height="20"/>
+        <text fill="#ffffff" dominant-baseline="bottom" text-anchor="middle" font-size="16" font-weight="bold" font-family="Cambria Math" x="475" y="39">3</text>
+      </g>
+    </g>
+    <g>
+      <text fill="#000000" dominant-baseline="bottom" text-anchor="middle" font-size="10" font-weight="bold" font-family="Cambria Math" x="475" y="146">top</text>
+      <g>
+        <rect stroke-width="3" stroke="#000000" fill="#000099" x="440" y="176" width="70" height="20"/>
+        <text fill="#ffffff" dominant-baseline="bottom" text-anchor="middle" font-size="16" font-weight="bold" font-family="Cambria Math" x="475" y="191">Env #01</text>
+      </g>
+      <g>
+        <rect stroke-width="3" stroke="#000000" fill="#000099" x="440" y="152" width="70" height="20"/>
+        <text fill="#ffffff" dominant-baseline="bottom" text-anchor="middle" font-size="16" font-weight="bold" font-family="Cambria Math" x="475" y="167">Env #02</text>
+      </g>
+    </g>
+    <text fill="#000000" dominant-baseline="bottom" text-anchor="middle" font-size="16" font-weight="bold" font-family="Cambria Math" x="475" y="111">push(3)</text>
+    <line stroke-width="3" stroke="#000000" x1="475" y1="121" x2="475" y2="127"/>
+    <text fill="#000000" dominant-baseline="top" text-anchor="middle" font-size="10" font-weight="bold" font-family="Cambria Math" x="475" y="136">6</text>
+  </g>
+  <g>
+    <g>
+      <text fill="#000000" dominant-baseline="bottom" text-anchor="middle" font-size="10" font-weight="bold" font-family="Cambria Math" x="560" y="42">top</text>
+      <g>
+        <rect stroke-width="3" stroke="#000000" fill="#000099" x="525" y="72" width="70" height="20"/>
+        <text fill="#ffffff" dominant-baseline="bottom" text-anchor="middle" font-size="16" font-weight="bold" font-family="Cambria Math" x="560" y="87">Ret #08</text>
+      </g>
+      <g>
+        <rect stroke-width="3" stroke="#000000" fill="#000099" x="525" y="48" width="70" height="20"/>
+        <text fill="#ffffff" dominant-baseline="bottom" text-anchor="middle" font-size="16" font-weight="bold" font-family="Cambria Math" x="560" y="63">3</text>
+      </g>
+    </g>
+    <g>
+      <text fill="#000000" dominant-baseline="bottom" text-anchor="middle" font-size="10" font-weight="bold" font-family="Cambria Math" x="560" y="170">top</text>
+      <g>
+        <rect stroke-width="3" stroke="#000000" fill="#000099" x="525" y="176" width="70" height="20"/>
+        <text fill="#ffffff" dominant-baseline="bottom" text-anchor="middle" font-size="16" font-weight="bold" font-family="Cambria Math" x="560" y="191">Env #01</text>
+      </g>
+    </g>
+    <text fill="#000000" dominant-baseline="bottom" text-anchor="middle" font-size="16" font-weight="bold" font-family="Cambria Math" x="560" y="111">ret</text>
+    <line stroke-width="3" stroke="#000000" x1="560" y1="121" x2="560" y2="127"/>
+    <text fill="#000000" dominant-baseline="top" text-anchor="middle" font-size="10" font-weight="bold" font-family="Cambria Math" x="560" y="136">7</text>
+  </g>
+  <g>
+    <g>
+      <text fill="#000000" dominant-baseline="bottom" text-anchor="middle" font-size="10" font-weight="bold" font-family="Cambria Math" x="645" y="66">top</text>
+      <g>
+        <rect stroke-width="3" stroke="#000000" fill="#000099" x="610" y="72" width="70" height="20"/>
+        <text fill="#ffffff" dominant-baseline="bottom" text-anchor="middle" font-size="16" font-weight="bold" font-family="Cambria Math" x="645" y="87">3</text>
+      </g>
+    </g>
+    <g>
+      <text fill="#000000" dominant-baseline="bottom" text-anchor="middle" font-size="10" font-weight="bold" font-family="Cambria Math" x="645" y="194">top</text>
+    </g>
+    <text fill="#000000" dominant-baseline="bottom" text-anchor="middle" font-size="16" font-weight="bold" font-family="Cambria Math" x="645" y="111">ret</text>
+    <line stroke-width="3" stroke="#000000" x1="645" y1="121" x2="645" y2="127"/>
+    <text fill="#000000" dominant-baseline="top" text-anchor="middle" font-size="10" font-weight="bold" font-family="Cambria Math" x="645" y="136">8</text>
+  </g>
+  <line stroke-width="3" stroke="#000000" x1="0" y1="124" x2="695" y2="124"/>
+  <text fill="#000000" dominant-baseline="middle" text-anchor="left" font-size="10" font-weight="bold" font-family="Cambria Math" x="698" y="124">time</text>
+  <text fill="#000000" dominant-baseline="bottom" text-anchor="left" font-size="10" font-weight="bold" font-family="Cambria Math" x="698" y="42">data</text>
+  <text fill="#000000" dominant-baseline="bottom" text-anchor="left" font-size="10" font-weight="bold" font-family="Cambria Math" x="698" y="170">call</text>
+</svg>

@@ -1,0 +1,420 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg width="494" height="468" xmlns="http://www.w3.org/2000/svg">
+  <rect fill="#ffffff" x="0" y="0" width="494" height="468"/>
+  <g>
+    <g>
+      <polygon stroke-width="3" stroke="#000000" fill="#990000" points="193 0 225 0 217 20 201 20"/>
+      <text fill="#ffffff" dominant-baseline="bottom" text-anchor="middle" font-size="16" font-weight="bold" font-family="Cambria Math" x="209" y="15">I</text>
+      <g>
+        <rect stroke-width="3" stroke="#000000" fill="#000060" x="3" y="26" width="32" height="20"/>
+      </g>
+      <g>
+        <rect stroke-width="3" stroke="#000000" fill="#000060" x="41" y="26" width="32" height="20"/>
+      </g>
+      <g>
+        <rect stroke-width="3" stroke="#000000" fill="#000060" x="79" y="26" width="32" height="20"/>
+      </g>
+      <g>
+        <rect stroke-width="3" stroke="#000000" fill="#000060" x="117" y="26" width="32" height="20"/>
+      </g>
+      <g>
+        <rect stroke-width="3" stroke="#000000" fill="#000060" x="155" y="26" width="32" height="20"/>
+      </g>
+      <g>
+        <rect stroke-width="3" stroke="#000000" fill="#0000A0" x="193" y="26" width="32" height="20"/>
+        <text fill="#ffffff" dominant-baseline="bottom" text-anchor="middle" font-size="16" font-weight="bold" font-family="Cambria Math" x="209" y="41">0</text>
+      </g>
+      <g>
+        <rect stroke-width="3" stroke="#000000" fill="#0000A0" x="231" y="26" width="32" height="20"/>
+        <text fill="#ffffff" dominant-baseline="bottom" text-anchor="middle" font-size="16" font-weight="bold" font-family="Cambria Math" x="247" y="41">1</text>
+      </g>
+      <g>
+        <rect stroke-width="3" stroke="#000000" fill="#0000A0" x="269" y="26" width="32" height="20"/>
+        <text fill="#ffffff" dominant-baseline="bottom" text-anchor="middle" font-size="16" font-weight="bold" font-family="Cambria Math" x="285" y="41">1</text>
+      </g>
+      <g>
+        <rect stroke-width="3" stroke="#000000" fill="#000060" x="307" y="26" width="32" height="20"/>
+      </g>
+      <g>
+        <rect stroke-width="3" stroke="#000000" fill="#000060" x="345" y="26" width="32" height="20"/>
+      </g>
+      <g>
+        <rect stroke-width="3" stroke="#000000" fill="#000060" x="383" y="26" width="32" height="20"/>
+      </g>
+      <g>
+        <rect stroke-width="3" stroke="#000000" fill="#000060" x="421" y="26" width="32" height="20"/>
+      </g>
+      <g>
+        <rect stroke-width="3" stroke="#000000" fill="#000060" x="459" y="26" width="32" height="20"/>
+      </g>
+    </g>
+    <g>
+      <polygon stroke-width="3" stroke="#000000" fill="#990000" points="231 52 263 52 255 72 239 72"/>
+      <text fill="#ffffff" dominant-baseline="bottom" text-anchor="middle" font-size="16" font-weight="bold" font-family="Cambria Math" x="247" y="67">a</text>
+      <g>
+        <rect stroke-width="3" stroke="#000000" fill="#000060" x="3" y="78" width="32" height="20"/>
+      </g>
+      <g>
+        <rect stroke-width="3" stroke="#000000" fill="#000060" x="41" y="78" width="32" height="20"/>
+      </g>
+      <g>
+        <rect stroke-width="3" stroke="#000000" fill="#000060" x="79" y="78" width="32" height="20"/>
+      </g>
+      <g>
+        <rect stroke-width="3" stroke="#000000" fill="#000060" x="117" y="78" width="32" height="20"/>
+      </g>
+      <g>
+        <rect stroke-width="3" stroke="#000000" fill="#000060" x="155" y="78" width="32" height="20"/>
+      </g>
+      <g>
+        <rect stroke-width="3" stroke="#000000" fill="#0000A0" x="193" y="78" width="32" height="20"/>
+        <text fill="#ffffff" dominant-baseline="bottom" text-anchor="middle" font-size="16" font-weight="bold" font-family="Cambria Math" x="209" y="93">0</text>
+      </g>
+      <g>
+        <rect stroke-width="3" stroke="#000000" fill="#0000A0" x="231" y="78" width="32" height="20"/>
+        <text fill="#ffffff" dominant-baseline="bottom" text-anchor="middle" font-size="16" font-weight="bold" font-family="Cambria Math" x="247" y="93">1</text>
+      </g>
+      <g>
+        <rect stroke-width="3" stroke="#000000" fill="#0000A0" x="269" y="78" width="32" height="20"/>
+        <text fill="#ffffff" dominant-baseline="bottom" text-anchor="middle" font-size="16" font-weight="bold" font-family="Cambria Math" x="285" y="93">1</text>
+      </g>
+      <g>
+        <rect stroke-width="3" stroke="#000000" fill="#000060" x="307" y="78" width="32" height="20"/>
+      </g>
+      <g>
+        <rect stroke-width="3" stroke="#000000" fill="#000060" x="345" y="78" width="32" height="20"/>
+      </g>
+      <g>
+        <rect stroke-width="3" stroke="#000000" fill="#000060" x="383" y="78" width="32" height="20"/>
+      </g>
+      <g>
+        <rect stroke-width="3" stroke="#000000" fill="#000060" x="421" y="78" width="32" height="20"/>
+      </g>
+      <g>
+        <rect stroke-width="3" stroke="#000000" fill="#000060" x="459" y="78" width="32" height="20"/>
+      </g>
+    </g>
+    <g>
+      <polygon stroke-width="3" stroke="#000000" fill="#990000" points="269 104 301 104 293 124 277 124"/>
+      <text fill="#ffffff" dominant-baseline="bottom" text-anchor="middle" font-size="16" font-weight="bold" font-family="Cambria Math" x="285" y="119">a</text>
+      <g>
+        <rect stroke-width="3" stroke="#000000" fill="#000060" x="3" y="130" width="32" height="20"/>
+      </g>
+      <g>
+        <rect stroke-width="3" stroke="#000000" fill="#000060" x="41" y="130" width="32" height="20"/>
+      </g>
+      <g>
+        <rect stroke-width="3" stroke="#000000" fill="#000060" x="79" y="130" width="32" height="20"/>
+      </g>
+      <g>
+        <rect stroke-width="3" stroke="#000000" fill="#000060" x="117" y="130" width="32" height="20"/>
+      </g>
+      <g>
+        <rect stroke-width="3" stroke="#000000" fill="#000060" x="155" y="130" width="32" height="20"/>
+      </g>
+      <g>
+        <rect stroke-width="3" stroke="#000000" fill="#0000A0" x="193" y="130" width="32" height="20"/>
+        <text fill="#ffffff" dominant-baseline="bottom" text-anchor="middle" font-size="16" font-weight="bold" font-family="Cambria Math" x="209" y="145">0</text>
+      </g>
+      <g>
+        <rect stroke-width="3" stroke="#000000" fill="#0000A0" x="231" y="130" width="32" height="20"/>
+        <text fill="#ffffff" dominant-baseline="bottom" text-anchor="middle" font-size="16" font-weight="bold" font-family="Cambria Math" x="247" y="145">1</text>
+      </g>
+      <g>
+        <rect stroke-width="3" stroke="#000000" fill="#0000A0" x="269" y="130" width="32" height="20"/>
+        <text fill="#ffffff" dominant-baseline="bottom" text-anchor="middle" font-size="16" font-weight="bold" font-family="Cambria Math" x="285" y="145">1</text>
+      </g>
+      <g>
+        <rect stroke-width="3" stroke="#000000" fill="#000060" x="307" y="130" width="32" height="20"/>
+      </g>
+      <g>
+        <rect stroke-width="3" stroke="#000000" fill="#000060" x="345" y="130" width="32" height="20"/>
+      </g>
+      <g>
+        <rect stroke-width="3" stroke="#000000" fill="#000060" x="383" y="130" width="32" height="20"/>
+      </g>
+      <g>
+        <rect stroke-width="3" stroke="#000000" fill="#000060" x="421" y="130" width="32" height="20"/>
+      </g>
+      <g>
+        <rect stroke-width="3" stroke="#000000" fill="#000060" x="459" y="130" width="32" height="20"/>
+      </g>
+    </g>
+    <g>
+      <polygon stroke-width="3" stroke="#000000" fill="#990000" points="307 156 339 156 331 176 315 176"/>
+      <text fill="#ffffff" dominant-baseline="bottom" text-anchor="middle" font-size="16" font-weight="bold" font-family="Cambria Math" x="323" y="171">a</text>
+      <g>
+        <rect stroke-width="3" stroke="#000000" fill="#000060" x="3" y="182" width="32" height="20"/>
+      </g>
+      <g>
+        <rect stroke-width="3" stroke="#000000" fill="#000060" x="41" y="182" width="32" height="20"/>
+      </g>
+      <g>
+        <rect stroke-width="3" stroke="#000000" fill="#000060" x="79" y="182" width="32" height="20"/>
+      </g>
+      <g>
+        <rect stroke-width="3" stroke="#000000" fill="#000060" x="117" y="182" width="32" height="20"/>
+      </g>
+      <g>
+        <rect stroke-width="3" stroke="#000000" fill="#000060" x="155" y="182" width="32" height="20"/>
+      </g>
+      <g>
+        <rect stroke-width="3" stroke="#000000" fill="#0000A0" x="193" y="182" width="32" height="20"/>
+        <text fill="#ffffff" dominant-baseline="bottom" text-anchor="middle" font-size="16" font-weight="bold" font-family="Cambria Math" x="209" y="197">0</text>
+      </g>
+      <g>
+        <rect stroke-width="3" stroke="#000000" fill="#0000A0" x="231" y="182" width="32" height="20"/>
+        <text fill="#ffffff" dominant-baseline="bottom" text-anchor="middle" font-size="16" font-weight="bold" font-family="Cambria Math" x="247" y="197">1</text>
+      </g>
+      <g>
+        <rect stroke-width="3" stroke="#000000" fill="#0000A0" x="269" y="182" width="32" height="20"/>
+        <text fill="#ffffff" dominant-baseline="bottom" text-anchor="middle" font-size="16" font-weight="bold" font-family="Cambria Math" x="285" y="197">1</text>
+      </g>
+      <g>
+        <rect stroke-width="3" stroke="#000000" fill="#000060" x="307" y="182" width="32" height="20"/>
+      </g>
+      <g>
+        <rect stroke-width="3" stroke="#000000" fill="#000060" x="345" y="182" width="32" height="20"/>
+      </g>
+      <g>
+        <rect stroke-width="3" stroke="#000000" fill="#000060" x="383" y="182" width="32" height="20"/>
+      </g>
+      <g>
+        <rect stroke-width="3" stroke="#000000" fill="#000060" x="421" y="182" width="32" height="20"/>
+      </g>
+      <g>
+        <rect stroke-width="3" stroke="#000000" fill="#000060" x="459" y="182" width="32" height="20"/>
+      </g>
+    </g>
+    <g>
+      <polygon stroke-width="3" stroke="#000000" fill="#990000" points="269 208 301 208 293 228 277 228"/>
+      <text fill="#ffffff" dominant-baseline="bottom" text-anchor="middle" font-size="16" font-weight="bold" font-family="Cambria Math" x="285" y="223">b</text>
+      <g>
+        <rect stroke-width="3" stroke="#000000" fill="#000060" x="3" y="234" width="32" height="20"/>
+      </g>
+      <g>
+        <rect stroke-width="3" stroke="#000000" fill="#000060" x="41" y="234" width="32" height="20"/>
+      </g>
+      <g>
+        <rect stroke-width="3" stroke="#000000" fill="#000060" x="79" y="234" width="32" height="20"/>
+      </g>
+      <g>
+        <rect stroke-width="3" stroke="#000000" fill="#000060" x="117" y="234" width="32" height="20"/>
+      </g>
+      <g>
+        <rect stroke-width="3" stroke="#000000" fill="#000060" x="155" y="234" width="32" height="20"/>
+      </g>
+      <g>
+        <rect stroke-width="3" stroke="#000000" fill="#0000A0" x="193" y="234" width="32" height="20"/>
+        <text fill="#ffffff" dominant-baseline="bottom" text-anchor="middle" font-size="16" font-weight="bold" font-family="Cambria Math" x="209" y="249">0</text>
+      </g>
+      <g>
+        <rect stroke-width="3" stroke="#000000" fill="#0000A0" x="231" y="234" width="32" height="20"/>
+        <text fill="#ffffff" dominant-baseline="bottom" text-anchor="middle" font-size="16" font-weight="bold" font-family="Cambria Math" x="247" y="249">1</text>
+      </g>
+      <g>
+        <rect stroke-width="3" stroke="#000000" fill="#0000A0" x="269" y="234" width="32" height="20"/>
+        <text fill="#ffffff" dominant-baseline="bottom" text-anchor="middle" font-size="16" font-weight="bold" font-family="Cambria Math" x="285" y="249">1</text>
+      </g>
+      <g>
+        <rect stroke-width="3" stroke="#000000" fill="#000060" x="307" y="234" width="32" height="20"/>
+      </g>
+      <g>
+        <rect stroke-width="3" stroke="#000000" fill="#000060" x="345" y="234" width="32" height="20"/>
+      </g>
+      <g>
+        <rect stroke-width="3" stroke="#000000" fill="#000060" x="383" y="234" width="32" height="20"/>
+      </g>
+      <g>
+        <rect stroke-width="3" stroke="#000000" fill="#000060" x="421" y="234" width="32" height="20"/>
+      </g>
+      <g>
+        <rect stroke-width="3" stroke="#000000" fill="#000060" x="459" y="234" width="32" height="20"/>
+      </g>
+    </g>
+    <g>
+      <polygon stroke-width="3" stroke="#000000" fill="#990000" points="231 260 263 260 255 280 239 280"/>
+      <text fill="#ffffff" dominant-baseline="bottom" text-anchor="middle" font-size="16" font-weight="bold" font-family="Cambria Math" x="247" y="275">b</text>
+      <g>
+        <rect stroke-width="3" stroke="#000000" fill="#000060" x="3" y="286" width="32" height="20"/>
+      </g>
+      <g>
+        <rect stroke-width="3" stroke="#000000" fill="#000060" x="41" y="286" width="32" height="20"/>
+      </g>
+      <g>
+        <rect stroke-width="3" stroke="#000000" fill="#000060" x="79" y="286" width="32" height="20"/>
+      </g>
+      <g>
+        <rect stroke-width="3" stroke="#000000" fill="#000060" x="117" y="286" width="32" height="20"/>
+      </g>
+      <g>
+        <rect stroke-width="3" stroke="#000000" fill="#000060" x="155" y="286" width="32" height="20"/>
+      </g>
+      <g>
+        <rect stroke-width="3" stroke="#000000" fill="#0000A0" x="193" y="286" width="32" height="20"/>
+        <text fill="#ffffff" dominant-baseline="bottom" text-anchor="middle" font-size="16" font-weight="bold" font-family="Cambria Math" x="209" y="301">0</text>
+      </g>
+      <g>
+        <rect stroke-width="3" stroke="#000000" fill="#0000A0" x="231" y="286" width="32" height="20"/>
+        <text fill="#ffffff" dominant-baseline="bottom" text-anchor="middle" font-size="16" font-weight="bold" font-family="Cambria Math" x="247" y="301">1</text>
+      </g>
+      <g>
+        <rect stroke-width="3" stroke="#000000" fill="#0000A0" x="269" y="286" width="32" height="20"/>
+        <text fill="#ffffff" dominant-baseline="bottom" text-anchor="middle" font-size="16" font-weight="bold" font-family="Cambria Math" x="285" y="301">0</text>
+      </g>
+      <g>
+        <rect stroke-width="3" stroke="#000000" fill="#000060" x="307" y="286" width="32" height="20"/>
+      </g>
+      <g>
+        <rect stroke-width="3" stroke="#000000" fill="#000060" x="345" y="286" width="32" height="20"/>
+      </g>
+      <g>
+        <rect stroke-width="3" stroke="#000000" fill="#000060" x="383" y="286" width="32" height="20"/>
+      </g>
+      <g>
+        <rect stroke-width="3" stroke="#000000" fill="#000060" x="421" y="286" width="32" height="20"/>
+      </g>
+      <g>
+        <rect stroke-width="3" stroke="#000000" fill="#000060" x="459" y="286" width="32" height="20"/>
+      </g>
+    </g>
+    <g>
+      <polygon stroke-width="3" stroke="#000000" fill="#990000" points="193 312 225 312 217 332 201 332"/>
+      <text fill="#ffffff" dominant-baseline="bottom" text-anchor="middle" font-size="16" font-weight="bold" font-family="Cambria Math" x="209" y="327">b</text>
+      <g>
+        <rect stroke-width="3" stroke="#000000" fill="#000060" x="3" y="338" width="32" height="20"/>
+      </g>
+      <g>
+        <rect stroke-width="3" stroke="#000000" fill="#000060" x="41" y="338" width="32" height="20"/>
+      </g>
+      <g>
+        <rect stroke-width="3" stroke="#000000" fill="#000060" x="79" y="338" width="32" height="20"/>
+      </g>
+      <g>
+        <rect stroke-width="3" stroke="#000000" fill="#000060" x="117" y="338" width="32" height="20"/>
+      </g>
+      <g>
+        <rect stroke-width="3" stroke="#000000" fill="#000060" x="155" y="338" width="32" height="20"/>
+      </g>
+      <g>
+        <rect stroke-width="3" stroke="#000000" fill="#0000A0" x="193" y="338" width="32" height="20"/>
+        <text fill="#ffffff" dominant-baseline="bottom" text-anchor="middle" font-size="16" font-weight="bold" font-family="Cambria Math" x="209" y="353">0</text>
+      </g>
+      <g>
+        <rect stroke-width="3" stroke="#000000" fill="#0000A0" x="231" y="338" width="32" height="20"/>
+        <text fill="#ffffff" dominant-baseline="bottom" text-anchor="middle" font-size="16" font-weight="bold" font-family="Cambria Math" x="247" y="353">0</text>
+      </g>
+      <g>
+        <rect stroke-width="3" stroke="#000000" fill="#0000A0" x="269" y="338" width="32" height="20"/>
+        <text fill="#ffffff" dominant-baseline="bottom" text-anchor="middle" font-size="16" font-weight="bold" font-family="Cambria Math" x="285" y="353">0</text>
+      </g>
+      <g>
+        <rect stroke-width="3" stroke="#000000" fill="#000060" x="307" y="338" width="32" height="20"/>
+      </g>
+      <g>
+        <rect stroke-width="3" stroke="#000000" fill="#000060" x="345" y="338" width="32" height="20"/>
+      </g>
+      <g>
+        <rect stroke-width="3" stroke="#000000" fill="#000060" x="383" y="338" width="32" height="20"/>
+      </g>
+      <g>
+        <rect stroke-width="3" stroke="#000000" fill="#000060" x="421" y="338" width="32" height="20"/>
+      </g>
+      <g>
+        <rect stroke-width="3" stroke="#000000" fill="#000060" x="459" y="338" width="32" height="20"/>
+      </g>
+    </g>
+    <g>
+      <polygon stroke-width="3" stroke="#000000" fill="#990000" points="155 364 187 364 179 384 163 384"/>
+      <text fill="#ffffff" dominant-baseline="bottom" text-anchor="middle" font-size="16" font-weight="bold" font-family="Cambria Math" x="171" y="379">c</text>
+      <g>
+        <rect stroke-width="3" stroke="#000000" fill="#000060" x="3" y="390" width="32" height="20"/>
+      </g>
+      <g>
+        <rect stroke-width="3" stroke="#000000" fill="#000060" x="41" y="390" width="32" height="20"/>
+      </g>
+      <g>
+        <rect stroke-width="3" stroke="#000000" fill="#000060" x="79" y="390" width="32" height="20"/>
+      </g>
+      <g>
+        <rect stroke-width="3" stroke="#000000" fill="#000060" x="117" y="390" width="32" height="20"/>
+      </g>
+      <g>
+        <rect stroke-width="3" stroke="#000000" fill="#000060" x="155" y="390" width="32" height="20"/>
+      </g>
+      <g>
+        <rect stroke-width="3" stroke="#000000" fill="#0000A0" x="193" y="390" width="32" height="20"/>
+        <text fill="#ffffff" dominant-baseline="bottom" text-anchor="middle" font-size="16" font-weight="bold" font-family="Cambria Math" x="209" y="405">1</text>
+      </g>
+      <g>
+        <rect stroke-width="3" stroke="#000000" fill="#0000A0" x="231" y="390" width="32" height="20"/>
+        <text fill="#ffffff" dominant-baseline="bottom" text-anchor="middle" font-size="16" font-weight="bold" font-family="Cambria Math" x="247" y="405">0</text>
+      </g>
+      <g>
+        <rect stroke-width="3" stroke="#000000" fill="#0000A0" x="269" y="390" width="32" height="20"/>
+        <text fill="#ffffff" dominant-baseline="bottom" text-anchor="middle" font-size="16" font-weight="bold" font-family="Cambria Math" x="285" y="405">0</text>
+      </g>
+      <g>
+        <rect stroke-width="3" stroke="#000000" fill="#000060" x="307" y="390" width="32" height="20"/>
+      </g>
+      <g>
+        <rect stroke-width="3" stroke="#000000" fill="#000060" x="345" y="390" width="32" height="20"/>
+      </g>
+      <g>
+        <rect stroke-width="3" stroke="#000000" fill="#000060" x="383" y="390" width="32" height="20"/>
+      </g>
+      <g>
+        <rect stroke-width="3" stroke="#000000" fill="#000060" x="421" y="390" width="32" height="20"/>
+      </g>
+      <g>
+        <rect stroke-width="3" stroke="#000000" fill="#000060" x="459" y="390" width="32" height="20"/>
+      </g>
+    </g>
+    <g>
+      <polygon stroke-width="3" stroke="#000000" fill="#990000" points="193 416 225 416 217 436 201 436"/>
+      <text fill="#ffffff" dominant-baseline="bottom" text-anchor="middle" font-size="16" font-weight="bold" font-family="Cambria Math" x="209" y="431">F</text>
+      <g>
+        <rect stroke-width="3" stroke="#000000" fill="#000060" x="3" y="442" width="32" height="20"/>
+      </g>
+      <g>
+        <rect stroke-width="3" stroke="#000000" fill="#000060" x="41" y="442" width="32" height="20"/>
+      </g>
+      <g>
+        <rect stroke-width="3" stroke="#000000" fill="#000060" x="79" y="442" width="32" height="20"/>
+      </g>
+      <g>
+        <rect stroke-width="3" stroke="#000000" fill="#000060" x="117" y="442" width="32" height="20"/>
+      </g>
+      <g>
+        <rect stroke-width="3" stroke="#000000" fill="#000060" x="155" y="442" width="32" height="20"/>
+      </g>
+      <g>
+        <rect stroke-width="3" stroke="#000000" fill="#0000A0" x="193" y="442" width="32" height="20"/>
+        <text fill="#ffffff" dominant-baseline="bottom" text-anchor="middle" font-size="16" font-weight="bold" font-family="Cambria Math" x="209" y="457">1</text>
+      </g>
+      <g>
+        <rect stroke-width="3" stroke="#000000" fill="#0000A0" x="231" y="442" width="32" height="20"/>
+        <text fill="#ffffff" dominant-baseline="bottom" text-anchor="middle" font-size="16" font-weight="bold" font-family="Cambria Math" x="247" y="457">0</text>
+      </g>
+      <g>
+        <rect stroke-width="3" stroke="#000000" fill="#0000A0" x="269" y="442" width="32" height="20"/>
+        <text fill="#ffffff" dominant-baseline="bottom" text-anchor="middle" font-size="16" font-weight="bold" font-family="Cambria Math" x="285" y="457">0</text>
+      </g>
+      <g>
+        <rect stroke-width="3" stroke="#000000" fill="#000060" x="307" y="442" width="32" height="20"/>
+      </g>
+      <g>
+        <rect stroke-width="3" stroke="#000000" fill="#000060" x="345" y="442" width="32" height="20"/>
+      </g>
+      <g>
+        <rect stroke-width="3" stroke="#000000" fill="#000060" x="383" y="442" width="32" height="20"/>
+      </g>
+      <g>
+        <rect stroke-width="3" stroke="#000000" fill="#000060" x="421" y="442" width="32" height="20"/>
+      </g>
+      <g>
+        <rect stroke-width="3" stroke="#000000" fill="#000060" x="459" y="442" width="32" height="20"/>
+      </g>
+    </g>
+  </g>
+</svg>

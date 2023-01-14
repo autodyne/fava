@@ -1,0 +1,101 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg viewBox="0.0 0.0 665.0 132.0" xmlns="http://www.w3.org/2000/svg">
+  <g>
+    <text fill="#000000" dominant-baseline="bottom" text-anchor="middle" font-size="10" font-weight="bold" font-family="Cambria Math" y="90" x="30">top</text>
+    <text fill="#000000" dominant-baseline="bottom" text-anchor="middle" font-size="16" font-weight="bold" font-family="Cambria Math" y="111" x="30">init</text>
+    <line stroke-width="3" stroke="#000000" y2="123" y1="117" x2="30" x1="30"/>
+    <text fill="#000000" dominant-baseline="top" text-anchor="middle" font-size="10" font-weight="bold" font-family="Cambria Math" y="132" x="30">0</text>
+  </g>
+  <g>
+    <text fill="#000000" dominant-baseline="bottom" text-anchor="middle" font-size="10" font-weight="bold" font-family="Cambria Math" y="66" x="110">top</text>
+    <g>
+      <rect stroke-width="3" stroke="#000000" fill="#000099" y="72" x="80" height="20" width="60"/>
+      <text fill="#ffffff" dominant-baseline="bottom" text-anchor="middle" font-size="16" font-weight="bold" font-family="Cambria Math" y="87" x="110">1</text>
+    </g>
+    <text fill="#000000" dominant-baseline="bottom" text-anchor="middle" font-size="16" font-weight="bold" font-family="Cambria Math" y="111" x="110">1</text>
+    <line stroke-width="3" stroke="#000000" y2="123" y1="117" x2="110" x1="110"/>
+    <text fill="#000000" dominant-baseline="top" text-anchor="middle" font-size="10" font-weight="bold" font-family="Cambria Math" y="132" x="110">1</text>
+  </g>
+  <g>
+    <text fill="#000000" dominant-baseline="bottom" text-anchor="middle" font-size="10" font-weight="bold" font-family="Cambria Math" y="42" x="190">top</text>
+    <g>
+      <rect stroke-width="3" stroke="#000000" fill="#000099" y="72" x="160" height="20" width="60"/>
+      <text fill="#ffffff" dominant-baseline="bottom" text-anchor="middle" font-size="16" font-weight="bold" font-family="Cambria Math" y="87" x="190">1</text>
+    </g>
+    <g>
+      <rect stroke-width="3" stroke="#000000" fill="#000099" y="48" x="160" height="20" width="60"/>
+      <text fill="#ffffff" dominant-baseline="bottom" text-anchor="middle" font-size="16" font-weight="bold" font-family="Cambria Math" y="63" x="190">2</text>
+    </g>
+    <text fill="#000000" dominant-baseline="bottom" text-anchor="middle" font-size="16" font-weight="bold" font-family="Cambria Math" y="111" x="190">2</text>
+    <line stroke-width="3" stroke="#000000" y2="123" y1="117" x2="190" x1="190"/>
+    <text fill="#000000" dominant-baseline="top" text-anchor="middle" font-size="10" font-weight="bold" font-family="Cambria Math" y="132" x="190">2</text>
+  </g>
+  <g>
+    <text fill="#000000" dominant-baseline="bottom" text-anchor="middle" font-size="10" font-weight="bold" font-family="Cambria Math" y="66" x="270">top</text>
+    <g>
+      <rect stroke-width="3" stroke="#000000" fill="#000099" y="72" x="240" height="20" width="60"/>
+      <text fill="#ffffff" dominant-baseline="bottom" text-anchor="middle" font-size="16" font-weight="bold" font-family="Cambria Math" y="87" x="270">3</text>
+    </g>
+    <text fill="#000000" dominant-baseline="bottom" text-anchor="middle" font-size="16" font-weight="bold" font-family="Cambria Math" y="111" x="270">add</text>
+    <line stroke-width="3" stroke="#000000" y2="123" y1="117" x2="270" x1="270"/>
+    <text fill="#000000" dominant-baseline="top" text-anchor="middle" font-size="10" font-weight="bold" font-family="Cambria Math" y="132" x="270">3</text>
+  </g>
+  <g>
+    <text fill="#000000" dominant-baseline="bottom" text-anchor="middle" font-size="10" font-weight="bold" font-family="Cambria Math" y="42" x="350">top</text>
+    <g>
+      <rect stroke-width="3" stroke="#000000" fill="#000099" y="72" x="320" height="20" width="60"/>
+      <text fill="#ffffff" dominant-baseline="bottom" text-anchor="middle" font-size="16" font-weight="bold" font-family="Cambria Math" y="87" x="350">3</text>
+    </g>
+    <g>
+      <rect stroke-width="3" stroke="#000000" fill="#000099" y="48" x="320" height="20" width="60"/>
+      <text fill="#ffffff" dominant-baseline="bottom" text-anchor="middle" font-size="16" font-weight="bold" font-family="Cambria Math" y="63" x="350">10</text>
+    </g>
+    <text fill="#000000" dominant-baseline="bottom" text-anchor="middle" font-size="16" font-weight="bold" font-family="Cambria Math" y="111" x="350">10</text>
+    <line stroke-width="3" stroke="#000000" y2="123" y1="117" x2="350" x1="350"/>
+    <text fill="#000000" dominant-baseline="top" text-anchor="middle" font-size="10" font-weight="bold" font-family="Cambria Math" y="132" x="350">4</text>
+  </g>
+  <g>
+    <text fill="#000000" dominant-baseline="bottom" text-anchor="middle" font-size="10" font-weight="bold" font-family="Cambria Math" y="18" x="430">top</text>
+    <g>
+      <rect stroke-width="3" stroke="#000000" fill="#000099" y="72" x="400" height="20" width="60"/>
+      <text fill="#ffffff" dominant-baseline="bottom" text-anchor="middle" font-size="16" font-weight="bold" font-family="Cambria Math" y="87" x="430">3</text>
+    </g>
+    <g>
+      <rect stroke-width="3" stroke="#000000" fill="#000099" y="48" x="400" height="20" width="60"/>
+      <text fill="#ffffff" dominant-baseline="bottom" text-anchor="middle" font-size="16" font-weight="bold" font-family="Cambria Math" y="63" x="430">10</text>
+    </g>
+    <g>
+      <rect stroke-width="3" stroke="#000000" fill="#000099" y="24" x="400" height="20" width="60"/>
+      <text fill="#ffffff" dominant-baseline="bottom" text-anchor="middle" font-size="16" font-weight="bold" font-family="Cambria Math" y="39" x="430">20</text>
+    </g>
+    <text fill="#000000" dominant-baseline="bottom" text-anchor="middle" font-size="16" font-weight="bold" font-family="Cambria Math" y="111" x="430">20</text>
+    <line stroke-width="3" stroke="#000000" y2="123" y1="117" x2="430" x1="430"/>
+    <text fill="#000000" dominant-baseline="top" text-anchor="middle" font-size="10" font-weight="bold" font-family="Cambria Math" y="132" x="430">5</text>
+  </g>
+  <g>
+    <text fill="#000000" dominant-baseline="bottom" text-anchor="middle" font-size="10" font-weight="bold" font-family="Cambria Math" y="42" x="510">top</text>
+    <g>
+      <rect stroke-width="3" stroke="#000000" fill="#000099" y="72" x="480" height="20" width="60"/>
+      <text fill="#ffffff" dominant-baseline="bottom" text-anchor="middle" font-size="16" font-weight="bold" font-family="Cambria Math" y="87" x="510">3</text>
+    </g>
+    <g>
+      <rect stroke-width="3" stroke="#000000" fill="#000099" y="48" x="480" height="20" width="60"/>
+      <text fill="#ffffff" dominant-baseline="bottom" text-anchor="middle" font-size="16" font-weight="bold" font-family="Cambria Math" y="63" x="510">-10</text>
+    </g>
+    <text fill="#000000" dominant-baseline="bottom" text-anchor="middle" font-size="16" font-weight="bold" font-family="Cambria Math" y="111" x="510">sub</text>
+    <line stroke-width="3" stroke="#000000" y2="123" y1="117" x2="510" x1="510"/>
+    <text fill="#000000" dominant-baseline="top" text-anchor="middle" font-size="10" font-weight="bold" font-family="Cambria Math" y="132" x="510">6</text>
+  </g>
+  <g>
+    <text fill="#000000" dominant-baseline="bottom" text-anchor="middle" font-size="10" font-weight="bold" font-family="Cambria Math" y="66" x="590">top</text>
+    <g>
+      <rect stroke-width="3" stroke="#000000" fill="#000099" y="72" x="560" height="20" width="60"/>
+      <text fill="#ffffff" dominant-baseline="bottom" text-anchor="middle" font-size="16" font-weight="bold" font-family="Cambria Math" y="87" x="590">-30</text>
+    </g>
+    <text fill="#000000" dominant-baseline="bottom" text-anchor="middle" font-size="16" font-weight="bold" font-family="Cambria Math" y="111" x="590">mul</text>
+    <line stroke-width="3" stroke="#000000" y2="123" y1="117" x2="590" x1="590"/>
+    <text fill="#000000" dominant-baseline="top" text-anchor="middle" font-size="10" font-weight="bold" font-family="Cambria Math" y="132" x="590">7</text>
+  </g>
+  <line stroke-width="3" stroke="#000000" y2="120" y1="120" x2="640" x1="0"/>
+  <text fill="#000000" dominant-baseline="middle" text-anchor="left" font-size="10" font-weight="bold" font-family="Cambria Math" y="120" x="643">time</text>
+</svg>
